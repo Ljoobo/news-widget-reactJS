@@ -1,0 +1,9 @@
+.news-container{
+    background-color: lightblue;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }

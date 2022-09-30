@@ -1,13 +1,11 @@
 import './App.css';
-import Menu from 'components/Menu';
-import News from 'components/News';
+import Menu from './components/Menu/Menu.jsx';
+import News from './components/News/News.jsx';
 
 function App() {
   return (
     <div className="App">
-      Hello world
-      <Menu />
-      <News />
+      <News/>
     </div>
   );
 }

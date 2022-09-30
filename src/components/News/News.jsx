@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import './News.css';
 
 const News = () => {
   return (
-    <div>News</div>
+    <div className='news-container'>News</div>
   )
 }
 
